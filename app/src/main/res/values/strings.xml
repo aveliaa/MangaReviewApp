@@ -1,0 +1,184 @@
+<resources>
+    <string name="app_name">MangaReviewer</string>
+
+    <string name="manga_title">Judul Manga</string>
+    <string name="review">Ini adalah deskripsi dari manga yang direview. kontennya masuk ke sini.</string>
+    <string name="name">Avelia Diva Zahra</string>
+    <string name="email">avelia.diva@ui.ac.id</string>
+    <string name="about">I am a college student. I am very dedicated to improve myself and often seek opportunities to develop my skill and experience in art and IT, including UI/UX design, front-end development and graphic design. Until now, i have a lot of design-related experiences from projects and work.</string>
+    <string name="about_me">About Me</string>
+    <string name="img">my_imagee</string>
+    <string-array name="data_title">
+        <item>Alice in Borderland</item>
+        <item>Berserk</item>
+        <item>Denjin N</item>
+        <item>Dokumushi</item>
+        <item>Gantz</item>
+        <item>Kami-sama no Iu Tōri Ni</item>
+        <item>Monkey Peak</item>
+        <item>Nana</item>
+        <item>Oyasumi Punpun</item>
+        <item>Yakedo Shoujo</item>
+    </string-array>
+    <string-array name="data_review">
+    <item>
+        "Alice in Borderland" is a manga series written and illustrated by Haro Aso. The story follows three friends who find themselves transported to a deserted and deadly version of Tokyo, where they must compete in a series of deadly games in order to survive.\n\n
+
+        One of the main strengths of "Alice in Borderland" is its fast-paced and suspenseful storytelling. The manga wastes no time in establishing the danger and high stakes of the situation, with the characters forced to navigate a series of deadly challenges and puzzles. The story is both thrilling and unpredictable, keeping the reader on edge as they try to guess what will happen next.\n\n
+
+        Another highlight of "Alice in Borderland" is its unique and creative premise. The concept of a deserted and deadly version of Tokyo is both intriguing and terrifying, and the use of puzzles and games as a means of survival adds an extra layer of depth and complexity to the story. The manga also features a diverse and interesting cast of characters, each with their own unique strengths and weaknesses, which adds depth and complexity to the story.\n\n
+
+        The artwork in "Alice in Borderland" is also noteworthy. Asos style is highly detailed and dynamic, with a focus on action and movement. The depictions of the various challenges and puzzles are both creative and visually stunning, adding to the suspense and tension of the story.\n\n
+
+        Overall, "Alice in Borderland" is a gripping and engaging manga series that will appeal to readers who enjoy suspense and survival stories. The mangas unique premise and creative use of puzzles and games add depth and complexity to the story, and the artwork effectively conveys the action and intensity of the situation.\n\n
+    </item>
+
+        <item>
+        "Berserk" is a dark fantasy manga series written and illustrated by Kentaro Miura. The story follows the journey of Guts, a mercenary warrior, as he battles demons and other supernatural foes while seeking revenge against his former friend and rival, Griffith.
+        One of the strengths of "Berserk" is its rich and detailed world-building. Miura has created a complex and immersive world, with its own mythology, history, and political factions. The manga also features a wide range of interesting and well-developed characters, from Guts and Griffith to the members of Guts band of mercenaries. \n\n
+
+        Another highlight of "Berserk" is its visceral and graphic violence. The manga does not shy away from depicting gore and brutality, and this serves to reinforce the harsh and unforgiving nature of the world that Guts inhabits. Additionally, the action scenes are well choreographed and exciting, with a strong sense of momentum and impact. \n\n
+
+        The artwork in "Berserk" is also noteworthy. Miuras style is highly detailed and intricate, with a focus on fine linework and shading. The character designs are distinctive and memorable, with a particular emphasis on Guts imposing and intimidating appearance.
+        However, it should be noted that "Berserk" is a mature and intense manga, with themes of violence, trauma, and sexual assault. The manga is not recommended for younger or more sensitive readers. \n\n
+
+        Overall, "Berserk" is a well-crafted and immersive manga series that will appeal to readers who enjoy dark fantasy and action-packed storytelling. However, it should be approached with caution due to its mature content. Additionally, it should be noted that the manga is unfinished, with the last chapter published in 2018 before Miuras unexpected death. \n\n
+    </item>
+
+        <item>
+        "Denjin N" is a manga series written and illustrated by Masakazu Katsura. Unfortunately, while the series has some interesting ideas, it falls short in execution and ultimately feels underdeveloped and unsatisfying.\n\n
+
+        One of the main issues with "Denjin N" is its weak and convoluted plot. The story follows a high school student who gains the ability to transform into a powerful cyborg named Denjin N. However, the manga struggles to find a cohesive narrative, jumping from one plot point to another without fully exploring or developing them. The result is a story that feels rushed and disjointed, with many unresolved plot threads and confusing twists that leave the reader feeling unsatisfied.\n\n
+
+        Additionally, the characters in "Denjin N" are largely forgettable and underdeveloped. The protagonist lacks personality and depth, and the supporting characters are similarly one-dimensional and lacking in complexity. The relationships between the characters feel forced and artificial, with little emotional resonance or investment.\n\n
+
+        The artwork in "Denjin N" is also disappointing. While Katsuras style is clean and attractive, the character designs are generic and uninspired. The action scenes lack impact and excitement, and the overall visual presentation feels dated and lacking in creativity.\n\n
+
+        Overall, "Denjin N" is a disappointing manga series that fails to live up to its potential. The weak and convoluted plot, underdeveloped characters, and lackluster artwork make for an unsatisfying reading experience. While the manga may have some interesting ideas, it ultimately falls short in execution and fails to leave a lasting impression.\n\n
+    </item>
+
+        <item>
+        "Dokumushi" is a manga series written and illustrated by Megumi Toda. The story follows a young woman named Rui who becomes entangled in a mysterious and dangerous organization after her sister goes missing.\n\n
+
+        One of the main weaknesses of "Dokumushi" is its convoluted and confusing storytelling. The manga jumps back and forth between different timelines and perspectives, making it difficult for the reader to follow the story and understand what is happening. The pacing is also inconsistent, with some chapters feeling rushed while others drag on unnecessarily.\n\n
+
+        Another issue with "Dokumushi" is its lack of compelling characters. Rui, the protagonist, is often passive and reactive, with little agency or personality of her own. The supporting characters are similarly underdeveloped, with little backstory or motivation to make them interesting or engaging.\n\n
+
+        The artwork in "Dokumushi" is also lackluster. Todas style is simplistic and unremarkable, with little attention paid to detail or composition. The character designs are generic and unmemorable, and the action sequences are often confusing and poorly choreographed.\n\n
+
+        Overall, "Dokumushi" is a disappointing manga series that fails to deliver a compelling story or memorable characters. The convoluted and confusing storytelling, lack of interesting characters, and unremarkable artwork all contribute to a forgettable and unenjoyable reading experience.
+    </item>
+
+        <item>
+        "Gantz" is a manga series written and illustrated by Hiroya Oku. The story follows a group of individuals who are brought back to life after their deaths to participate in a brutal and deadly game of survival against various alien creatures.\n\n
+
+        One of the main strengths of "Gantz" is its dark and mature storytelling. The manga explores heavy themes such as life, death, morality, and existentialism. The characters are put into intense and often disturbing situations that force them to question their own values and motivations. The story is both thought-provoking and suspenseful, as the characters are constantly on edge, not knowing when they will face their next challenge.\n\n
+
+        Another highlight of "Gantz" is its intricate and detailed artwork. Oku style is highly detailed and realistic, with a focus on character designs and action sequences. The depictions of the various alien creatures and their gruesome violence are both shocking and awe-inspiring. The use of shading and perspective adds depth and realism to the scenes, making the story more immersive and impactful.\n\n
+
+        Additionally, "Gantz" features a diverse and well-developed cast of characters. Each character has their own unique backstory, personality, and motivations. As the story progresses, the characters are given ample opportunities to grow and evolve, making their eventual fates all the more impactful.\n\n
+
+        Overall, "Gantz" is an excellent manga series that delivers a compelling and mature story alongside stunning artwork. Its exploration of heavy themes and complex characters will appeal to readers who enjoy dark and thought-provoking stories. The mangas attention to detail and immersive storytelling make it a must-read for fans of science fiction and action.
+    </item>
+
+        <item>
+        "Kamisama no Iutoori ni" is a thrilling and suspenseful manga series written and illustrated by Muneyuki Kaneshiro and Akeji Fujimura. The story follows a group of high school students who find themselves trapped in a deadly game with a mysterious and malevolent deity.\n\n
+
+        One of the strengths of "Kamisama no Iutoori ni" is its fast-paced and intense storytelling. The manga wastes no time in establishing the danger and high stakes of the situation, with the characters forced to navigate a series of deadly challenges and traps. The manga also features a diverse and interesting cast of characters, each with their own unique strengths and weaknesses, which adds depth and complexity to the story.\n\n
+
+        Another highlight of "Kamisama no Iutoori ni" is its exploration of morality and human nature. The manga delves into the darker aspects of human behavior, as the characters are forced to make difficult and sometimes ethically questionable decisions in order to survive. The manga also raises thought-provoking questions about the nature of free will and the role of higher powers in human life.\n\n
+
+        The artwork in "Kamisama no Iutoori ni" is also noteworthy. Fujimuras style is highly detailed and dynamic, with a focus on action and movement. The character designs are distinctive and expressive, and the depiction of the deadly challenges is both creative and terrifying.\n\n
+
+        Overall, "Kamisama no Iutoori ni" is a gripping and engaging manga series that will appeal to readers who enjoy suspense and survival stories. The mangas exploration of morality and human nature adds depth and complexity to the story, and the artwork effectively conveys the action and intensity of the situation.
+    </item>
+
+        <item>
+        "Monkey Peak" is a horror-thriller manga series written by Koji Shinasaka and illustrated by Akihiro Kumeta. The story follows a group of hikers who become stranded on a mountain and must fight for survival against a group of savage and bloodthirsty monkeys.\n\n
+
+        One of the strengths of "Monkey Peak" is its fast-paced and suspenseful storytelling. The manga wastes no time in establishing the danger and intensity of the situation, and the action and horror elements are consistently engaging and thrilling. Additionally, the manga features a diverse cast of characters, each with their own unique strengths and weaknesses, which adds to the tension and unpredictability of the story.\n\n
+
+        Another highlight of "Monkey Peak" is its exploration of primal and animalistic themes. The manga delves into the nature of survival and the thin line between humanity and savagery, as the characters are forced to confront their own primal instincts in order to stay alive. The monkeys are also portrayed in a terrifying and menacing way, with their violent and brutal behavior reflecting the dark and violent aspects of nature.\n\n
+
+        The artwork in "Monkey Peak" is also noteworthy. Kumetas style is highly detailed and realistic, with a focus on texture and shading. The character designs are distinctive and expressive, and the monkeys are drawn in a way that is both terrifying and eerily realistic.
+        However, it should be noted that "Monkey Peak" is a mature and at times gruesome manga, with themes and scenes that may be too intense or violent for some readers. The manga contains depictions of graphic violence and gore, which may be disturbing or offensive to some readers.\n\n
+
+        Overall, "Monkey Peak" is a thrilling and intense manga series that will appeal to readers who enjoy horror and survival stories. The mangas exploration of primal and animalistic themes adds depth and complexity to the story, and the artwork effectively conveys the horror and intensity of the situation.
+    </item>
+
+        <item>
+        "Nana" is a popular manga series written and illustrated by Ai Yazawa. The story revolves around two young women, both named Nana, who meet on a train to Tokyo and become roommates. The manga follows their lives as they pursue their dreams and navigate relationships, friendships, and the music industry. \n\n
+
+        One of the strengths of "Nana" is its well-developed characters. The two Nanas are both complex and flawed individuals, and their friendship is portrayed realistically, with ups and downs. The supporting characters are also fleshed out and memorable, with their own unique personalities and storylines. \n\n
+
+        Another highlight of "Nana" is its exploration of themes such as love, friendship, loyalty, and ambition. The manga tackles these topics in a mature and nuanced way, without shying away from the more difficult aspects of these relationships. \n\n
+
+        The artwork in "Nana" is also noteworthy. Yazawas style is distinctive and stylish, with a focus on fashion and detailed backgrounds. The character designs are particularly memorable, with each character having their own distinct look. \n\n
+
+        Overall, "Nana" is a well-written and engaging manga series that will appeal to readers who enjoy character-driven stories with complex relationships and themes. However, it should be noted that the manga is unfinished, with the last chapter published in 2009, leaving many storylines unresolved. \n\n
+    </item>
+
+        <item>
+        "Oyasumi Punpun" is a coming-of-age manga series written and illustrated by Inio Asano. The story follows the life of Punpun, a young boy growing up in Japan, as he navigates the complexities of adolescence and adulthood.\n\n
+
+        One of the strengths of "Oyasumi Punpun" is its depiction of the challenges and struggles that many young people face as they grow up. Asano does not shy away from exploring difficult topics such as abuse, mental illness, and existentialism, and these themes are handled with sensitivity and nuance. Additionally, the characters in the manga are complex and multi-dimensional, with their own unique personalities, flaws, and motivations.\n\n
+
+        Another highlight of "Oyasumi Punpun" is its experimental and inventive artwork. Asano uses a variety of techniques to convey the mood and emotion of the story, such as minimalist linework, collage, and abstract imagery. The art style changes over the course of the manga, reflecting Punpuns shifting perspectives and experiences.
+        However, it should be noted that "Oyasumi Punpun" is a mature and at times disturbing manga, with themes that may be triggering for some readers. The manga is not recommended for younger or more sensitive readers.\n\n
+
+        Overall, "Oyasumi Punpun" is a powerful and thought-provoking manga series that explores the complexities of growing up and finding ones place in the world. The innovative artwork and mature themes make it a standout work in the genre, but it may not be suitable for all readers.\n\n
+    </item>
+
+        <item>
+        "Yakedo Shoujo" is a manga series written and illustrated by Mitsuharu Yanamoto. The story follows a young woman named Momo who has the ability to set things on fire with her touch, and her interactions with a group of male characters who also possess unusual abilities.\n\n
+
+
+        One of the main weaknesses of "Yakedo Shoujo" is its shallow and uninteresting characters. The male characters are all one-dimensional and stereotypical, with little development or depth. Momo herself is also a bland and unremarkable protagonist, with little personality or agency of her own. The relationships between the characters are also poorly developed, with little chemistry or emotional resonance.\n\n
+
+
+        Another issue with "Yakedo Shoujo" is its inconsistent and meandering storytelling. The manga jumps from one unrelated scenario to another without much coherence or sense of direction. The pacing is also uneven, with some chapters feeling rushed while others drag on unnecessarily.\n\n
+
+
+        The artwork in "Yakedo Shoujo" is also underwhelming. Yanamotos style is simplistic and unremarkable, with little attention paid to detail or composition. The character designs are generic and forgettable, and the action sequences are often confusing and poorly executed.\n\n
+
+
+        Overall, "Yakedo Shoujo" is a lackluster manga series that fails to deliver compelling characters or engaging storytelling. The shallow characters, inconsistent storytelling, and unimpressive artwork all contribute to a forgettable and unenjoyable reading experience.
+    </item>
+
+    </string-array>
+
+    <integer-array name="data_rate">
+        <item>@drawable/alice_review</item>
+        <item>@drawable/berserk_review</item>
+        <item>@drawable/denji_review</item>
+        <item>@drawable/dokumushi_review</item>
+        <item>@drawable/gantz_review</item>
+        <item>@drawable/kamisama_review</item>
+        <item>@drawable/monkey_review</item>
+        <item>@drawable/nana_review</item>
+        <item>@drawable/punpun_review</item>
+        <item>@drawable/yakedo_review</item>
+    </integer-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/alice</item>
+        <item>@drawable/berserk</item>
+        <item>@drawable/denji</item>
+        <item>@drawable/dokumushi</item>
+        <item>@drawable/gantz</item>
+        <item>@drawable/kamisama</item>
+        <item>@drawable/monkey</item>
+        <item>@drawable/nana</item>
+        <item>@drawable/punpun</item>
+        <item>@drawable/yakedo</item>
+    </integer-array>
+    <string name="title_activity_main2">MainActivity2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
