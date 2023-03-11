@@ -18,10 +18,15 @@ class MangaDetail : AppCompatActivity() {
         val tvDescription: TextView = findViewById(R.id.tv_item_description)
         val tvRate: ImageView = findViewById(R.id.img_item_rate)
 
+        val tvBackground : ImageView = findViewById(R.id.img_item_cover)
+        val tvGenre : TextView = findViewById(R.id.tv_item_genre)
+
         imgPhoto.setImageResource(dataManga.photo)
         tvName.text = dataManga.title
         tvDescription.text = dataManga.review
         tvRate.setImageResource(dataManga.rate)
+        tvGenre.text = dataManga.genre
+        tvBackground.setImageResource(dataManga.background)
 
     }
 }
