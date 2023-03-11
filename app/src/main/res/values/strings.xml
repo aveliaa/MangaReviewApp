@@ -2,11 +2,13 @@
     <string name="app_name">MangaReviewer</string>
 
     <string name="manga_title">Judul Manga</string>
+    <string name="genre_dummy">Comedy, Romance</string>
     <string name="review">Ini adalah deskripsi dari manga yang direview. kontennya masuk ke sini.</string>
     <string name="name">Avelia Diva Zahra</string>
     <string name="email">avelia.diva@ui.ac.id</string>
     <string name="about">I am a college student. I am very dedicated to improve myself and often seek opportunities to develop my skill and experience in art and IT, including UI/UX design, front-end development and graphic design. Until now, i have a lot of design-related experiences from projects and work.</string>
     <string name="about_me">About Me</string>
+    <string name="genre">Genre :</string>
     <string name="img">my_imagee</string>
     <string-array name="data_title">
         <item>Alice in Borderland</item>

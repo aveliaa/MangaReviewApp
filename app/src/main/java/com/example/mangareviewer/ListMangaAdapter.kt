@@ -10,11 +10,14 @@ import androidx.recyclerview.widget.RecyclerView
 
 class ListMangaAdapter(private val listManga: ArrayList<Manga>) : RecyclerView.Adapter<ListMangaAdapter.ListViewHolder>() {
 
+    private val GENREDEF = "Genre :"
     class ListViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
         val imgPhoto: ImageView = itemView.findViewById(R.id.img_item_photo)
         val tvName: TextView = itemView.findViewById(R.id.tv_item_name)
-        val tvDescription: TextView = itemView.findViewById(R.id.tv_item_description)
+        val tvGenre: TextView = itemView.findViewById(R.id.tv_item_genre)
         val tvRate: ImageView = itemView.findViewById(R.id.img_item_rate)
+
+        val tvGenTitle: TextView = itemView.findViewById(R.id.textView3)
     }
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ListViewHolder {
@@ -25,11 +28,13 @@ class ListMangaAdapter(private val listManga: ArrayList<Manga>) : RecyclerView.A
     override fun getItemCount(): Int = listManga.size
 
     override fun onBindViewHolder(holder: ListViewHolder, position: Int) {
-        val (name, description, photo, rate) = listManga[position]
+        val (name, description, photo, rate,genre,background) = listManga[position]
         holder.imgPhoto.setImageResource(photo)
         holder.tvName.text = name
-        holder.tvDescription.text = description
+        holder.tvGenre.text = genre
         holder.tvRate.setImageResource(rate)
+
+        holder.tvGenTitle.text = GENREDEF
 
         holder.itemView.setOnClickListener {
             val intentDetail = Intent(holder.itemView.context, MangaDetail::class.java)
