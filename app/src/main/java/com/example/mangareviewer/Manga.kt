@@ -8,5 +8,7 @@ data class Manga (
     val title: String,
     val review: String,
     val photo: Int,
-    val rate: Int
+    val rate: Int,
+    val genre: String,
+    val background: Int
 ) : Parcelable

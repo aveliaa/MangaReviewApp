@@ -32,9 +32,12 @@ class MainActivity : AppCompatActivity() {
         val dataDescription = resources.getStringArray(R.array.data_review)
         val dataPhoto = resources.obtainTypedArray(R.array.data_photo)
         val dataRate = resources.obtainTypedArray(R.array.data_rate)
+        val dataGenre = resources.getStringArray(R.array.data_genre)
+        val dataBg = resources.obtainTypedArray(R.array.data_bg)
+
         val listManga = ArrayList<Manga>()
         for (i in dataName.indices) {
-            val manga = Manga(dataName[i], dataDescription[i], dataPhoto.getResourceId(i, -1),dataRate.getResourceId(i, -1))
+            val manga = Manga(dataName[i], dataDescription[i], dataPhoto.getResourceId(i, -1),dataRate.getResourceId(i, -1),dataGenre[i],dataBg.getResourceId(i,-1))
             listManga.add(manga)
         }
         return listManga

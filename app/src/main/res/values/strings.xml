@@ -20,6 +20,20 @@
         <item>Oyasumi Punpun</item>
         <item>Yakedo Shoujo</item>
     </string-array>
+
+    <string-array name="data_genre">
+        <item>Supernatural horror, Survival, Suspense</item>
+        <item>Action, Horror, Dark fantasy, Drama</item>
+        <item>Action, Drama, Horror, Mystery</item>
+        <item>Horror, Death Game</item>
+        <item>Action, Psychological thriller, Science fiction</item>
+        <item>Action, Horror, Shounen, Supernatural, Psychological</item>
+        <item>Drama, Horror, Mystery, Seinen, Psychological, Supernatural</item>
+        <item>Drama, Musical, Romance</item>
+        <item>Psychological, Drama, Tragedy</item>
+        <item>Drama, Horror, Romance, School Life</item>
+    </string-array>
+
     <string-array name="data_review">
     <item>
         "Alice in Borderland" is a manga series written and illustrated by Haro Aso. The story follows three friends who find themselves transported to a deserted and deadly version of Tokyo, where they must compete in a series of deadly games in order to survive.\n\n
@@ -172,6 +186,20 @@
         <item>@drawable/punpun</item>
         <item>@drawable/yakedo</item>
     </integer-array>
+
+    <integer-array name="data_bg">
+        <item>@drawable/alice_bg</item>
+        <item>@drawable/berserk_bg</item>
+        <item>@drawable/denji_bg</item>
+        <item>@drawable/dokumushi_bg</item>
+        <item>@drawable/gantz_bg</item>
+        <item>@drawable/kamisama_bg</item>
+        <item>@drawable/monkey_bg</item>
+        <item>@drawable/nana_bg</item>
+        <item>@drawable/punpun_bg</item>
+        <item>@drawable/yakedo_bg</item>
+    </integer-array>
+
     <string name="title_activity_main2">MainActivity2</string>
     <!-- Strings used for fragments for navigation -->
     <string name="first_fragment_label">First Fragment</string>
