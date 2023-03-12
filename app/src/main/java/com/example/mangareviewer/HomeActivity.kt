@@ -9,19 +9,17 @@ import android.view.MenuItem
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 
-class MainActivity : AppCompatActivity() {
+class HomeActivity : AppCompatActivity() {
 
     private lateinit var rvManga: RecyclerView
     private val list = ArrayList<Manga>()
 
+    @SuppressLint("MissingInflatedId")
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
+        setContentView(R.layout.activity_home)
 
-        val intentSplash = Intent(this@MainActivity, SplashActivity::class.java)
-        startActivity(intentSplash)
-
-        rvManga = findViewById(R.id.rv_recycle_manga)
+        rvManga = findViewById(R.id.rv_recycle)
         rvManga.setHasFixedSize(true)
 
         list.addAll(getListManga())
@@ -59,12 +57,10 @@ class MainActivity : AppCompatActivity() {
     override fun onOptionsItemSelected(item: MenuItem): Boolean {
         when (item.itemId) {
             R.id.to_about_me -> {
-                val moveIntent = Intent(this@MainActivity, AboutMeActivity::class.java)
+                val moveIntent = Intent(this@HomeActivity, AboutMeActivity::class.java)
                 startActivity(moveIntent)
             }
         }
         return super.onOptionsItemSelected(item)
     }
 }
-
-
