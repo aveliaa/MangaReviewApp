@@ -6,7 +6,7 @@
     <string name="review">Ini adalah deskripsi dari manga yang direview. kontennya masuk ke sini.</string>
     <string name="name">Avelia Diva Zahra</string>
     <string name="email">avelia.diva@ui.ac.id</string>
-    <string name="about">I am a college student. I am very dedicated to improve myself and often seek opportunities to develop my skill and experience in art and IT, including UI/UX design, front-end development and graphic design. Until now, i have a lot of design-related experiences from projects and work.</string>
+    <string name="about">\nHello, i am Avelia. I am a college student who is also studying as Bangkit Academy Mobile Development cohort.\n love to read online comic books (manga/manhwa/manhua) in my spare time.\nThe mangas i collected here are a fraction of the stuff i have read.\nSome are incredible, and some are..\n..I hope you can enjoy my reviews and not flame me for giving berserk four stars :)\n</string>
     <string name="about_me">About Me</string>
     <string name="genre">Genre :</string>
     <string name="img">my_imagee</string>
@@ -211,4 +211,7 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="name_me">Avelia Diva Zahra</string>
+    <string name="email_me">avelia.diva@ui.ac.id</string>
+    <string name="about_title">about me..</string>
 </resources>
