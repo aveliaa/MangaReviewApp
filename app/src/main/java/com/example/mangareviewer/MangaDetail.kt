@@ -11,6 +11,8 @@ import android.widget.ImageView
 import android.widget.TextView
 
 class MangaDetail : AppCompatActivity(), View.OnClickListener {
+
+    val LINKDEF = "Read it at"
     @SuppressLint("MissingInflatedId")
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -24,6 +26,8 @@ class MangaDetail : AppCompatActivity(), View.OnClickListener {
         val tvRate: ImageView = findViewById(R.id.img_item_rate)
         val tvBackground : ImageView = findViewById(R.id.img_item_cover)
         val tvGenre : TextView = findViewById(R.id.tv_item_genre)
+        val tvLink : TextView = findViewById(R.id.tv_item_link)
+        val linkTitle : TextView = findViewById(R.id.link_title)
 
         val btnDialPhone: Button = findViewById(R.id.action_share)
         btnDialPhone.setOnClickListener(this)
@@ -34,6 +38,8 @@ class MangaDetail : AppCompatActivity(), View.OnClickListener {
         tvRate.setImageResource(dataManga.rate)
         tvGenre.text = dataManga.genre
         tvBackground.setImageResource(dataManga.background)
+        linkTitle.text = LINKDEF
+        tvLink.text = dataManga.link
 
     }
 
@@ -42,7 +48,7 @@ class MangaDetail : AppCompatActivity(), View.OnClickListener {
 
         val shareIntent = Intent(Intent.ACTION_SEND)
         shareIntent.setType("text/plain")
-        shareIntent.putExtra(Intent.EXTRA_TEXT,"So, i just saw ${dataManga.title} got Reviewed on Manga Reviewer App.\nIt is a ${dataManga.genre} manga.\nYou should check the review at Manga Reviewer!")
+        shareIntent.putExtra(Intent.EXTRA_TEXT,"So, i just saw ${dataManga.title} got Reviewed on Manga Reviewer App.\nIt is a ${dataManga.genre} manga, you can read it at ${dataManga.link}\nYou should check the review at Manga Reviewer!")
         startActivity(Intent.createChooser(shareIntent,"Share To"))
 
     }

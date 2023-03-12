@@ -5,7 +5,7 @@
     <string name="genre_dummy">Comedy, Romance</string>
     <string name="review">Ini adalah deskripsi dari manga yang direview. kontennya masuk ke sini.</string>
     <string name="name">Avelia Diva Zahra</string>
-    <string name="email">avelia.diva@ui.ac.id</string>
+    <string name="email">a181dsy1169@bangkit.academy</string>
     <string name="about">\nHello, i am Avelia. I am a college student who is also studying as Bangkit Academy Mobile Development cohort.\nI love to read online comic books (manga/manhwa/manhua) in my spare time.\nThe mangas i collected here are a fraction of the stuff i have read.\nSome are incredible, and some are..\n..I hope you can enjoy my reviews and not flame me for giving berserk four stars :)\n</string>
     <string name="about_me">About Me</string>
     <string name="genre">Genre :</string>
@@ -21,6 +21,19 @@
         <item>Nana</item>
         <item>Oyasumi Punpun</item>
         <item>Yakedo Shoujo</item>
+    </string-array>
+
+    <string-array name="data_link">
+        <item>https://chapmanganato.com/manga-mv951478</item>
+        <item>https://chapmanganato.com/manga-ma952557</item>
+        <item>https://manganato.com/manga-jo987071</item>
+        <item>https://v2.mangapark.net/manga/doku-mushi</item>
+        <item>https://chapmanganato.com/manga-lc962811</item>
+        <item>https://chapmanganato.com/manga-rn952048</item>
+        <item>https://manganato.com/manga-eo981849</item>
+        <item>https://v2.mangapark.net/manga/nana</item>
+        <item>https://chapmanganato.com/manga-fa957135</item>
+        <item>https://manganato.com/manga-bb979058</item>
     </string-array>
 
     <string-array name="data_genre">
@@ -215,4 +228,6 @@
     <string name="email_me">avelia.diva@ui.ac.id</string>
     <string name="about_title">about me..</string>
     <string name="genres_dummy">Comedy, Drama</string>
+    <string name="read_it_at">Read it at</string>
+    <string name="www_example_com">www.example.com</string>
 </resources>

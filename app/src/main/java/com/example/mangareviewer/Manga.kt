@@ -10,5 +10,6 @@ data class Manga (
     val photo: Int,
     val rate: Int,
     val genre: String,
-    val background: Int
+    val background: Int,
+    val link: String
 ) : Parcelable

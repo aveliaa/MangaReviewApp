@@ -34,10 +34,11 @@ class HomeActivity : AppCompatActivity() {
         val dataRate = resources.obtainTypedArray(R.array.data_rate)
         val dataGenre = resources.getStringArray(R.array.data_genre)
         val dataBg = resources.obtainTypedArray(R.array.data_bg)
+        val dataLink = resources.getStringArray(R.array.data_link)
 
         val listManga = ArrayList<Manga>()
         for (i in dataName.indices) {
-            val manga = Manga(dataName[i], dataDescription[i], dataPhoto.getResourceId(i, -1),dataRate.getResourceId(i, -1),dataGenre[i],dataBg.getResourceId(i,-1))
+            val manga = Manga(dataName[i], dataDescription[i], dataPhoto.getResourceId(i, -1),dataRate.getResourceId(i, -1),dataGenre[i],dataBg.getResourceId(i,-1),dataLink[i])
             listManga.add(manga)
         }
         return listManga
@@ -56,7 +57,7 @@ class HomeActivity : AppCompatActivity() {
 
     override fun onOptionsItemSelected(item: MenuItem): Boolean {
         when (item.itemId) {
-            R.id.to_about_me -> {
+            R.id.about_page -> {
                 val moveIntent = Intent(this@HomeActivity, AboutMeActivity::class.java)
                 startActivity(moveIntent)
             }
